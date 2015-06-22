@@ -1,0 +1,14 @@
+{
+  "name": "portable-transform-cssmin",
+  "version": "0.0.1",
+  "description": "portable.js CSS minifier",
+  "main": "index.js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/streamich/portable-transform-cssmin.git"
+  },
+  "license": "Unlicense",
+  "dependencies": {
+    "clean-css": "3.3.3"
+  }
+}
